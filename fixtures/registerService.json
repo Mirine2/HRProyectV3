@@ -1,0 +1,15 @@
+{
+
+"RegisterForService":":nth-child(2) > p > a",
+"alert2":"/html[1]/body[1]/div[4]/div[1]/div[1]/form[1]/div[1]/div[2]/div[2]/h5[1]/label[1]", 
+"ERISA":"/html[1]/body[1]/div[4]/div[1]/div[1]/form[1]/div[1]/div[2]/div[4]/div[1]/div[1]/label[1]/strong[1]",  
+"HR": "checkbox[]",
+"Next":"#next",
+"UserName":"#txt_user_name",
+"Password": "#txt_password",
+"RetypePassword" : "#txt_retype_password",
+"PartnerKey": "#txt_partner_key",
+"ProCodigo": "#discount_code",
+"next": "#next"
+
+}

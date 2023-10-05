@@ -1,0 +1,10 @@
+{
+    "SignIn": ".menu-link",
+    "Username": "#txt_login",
+    "Password": "#txt_password",
+    "SignInbutton": ":nth-child(6) > .btn",
+    "Alert": "toastify",
+    "GotoHome": ":nth-child(1) > :nth-child(5) > .btn",
+    "Menu":".menu-trigger > .fa"
+
+}
